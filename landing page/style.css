@@ -83,8 +83,8 @@ nav{
     margin-bottom: 16px;
 }
 .content_container p{
-    font-size: 20px;
-    color: var(--text-color);
+    font-size: 22px;
+    color: black;
     margin-bottom: 30px;
 }
 .content_container form{
